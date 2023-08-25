@@ -5,9 +5,18 @@ body {
 h1 {
   color: brown;
   font-size: 40px;
+  font-weight: 500;
 }
 
 h3 {
   color: brown;
   font-size: 25px;
+  font-weight: 200;
 }
+
+p {
+  color: lightcoral;
+  font-size: 15px;
+  font-weight: 600;
+}
+
