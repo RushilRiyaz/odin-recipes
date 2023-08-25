@@ -1,1 +1,13 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
 
+h1 {
+  color: brown;
+  font-size: 40px;
+}
+
+h3 {
+  color: brown;
+  font-size: 25px;
+}
