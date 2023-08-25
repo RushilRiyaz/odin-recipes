@@ -1,4 +1,10 @@
-body {
+.macros,
+.ingredients,
+.instructions {
+  font-weight: bold;
+}
+
+* {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
@@ -20,3 +26,14 @@ p {
   font-weight: 600;
 }
 
+.macros {
+  color: orange;
+}
+
+.ingredients {
+  color: orangered;
+}
+
+.instructions {
+  color: olivedrab;
+}
