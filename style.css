@@ -12,12 +12,28 @@ h1 {
   color: brown;
   font-size: 40px;
   font-weight: 500;
+  border: 2px solid grey;
+  text-align: center;
+  margin: 4px;
+}
+
+img {
+  display: block;
+  border: 2px solid grey;
+  margin: auto;
+  padding: 4px;
 }
 
 h3 {
   color: brown;
   font-size: 25px;
   font-weight: 200;
+  text-align: center;
+}
+
+.linktopgs {
+  width: 200px;
+  margin: auto;
 }
 
 p {
