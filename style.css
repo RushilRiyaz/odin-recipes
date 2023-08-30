@@ -44,12 +44,24 @@ p {
 
 .macros {
   color: orange;
+  display: block;
+  text-align: left;
+  margin: auto;
+  width: 200px;
 }
 
 .ingredients {
   color: orangered;
+  display: block;
+  text-align: left;
+  margin: auto;
+  width: 200px;
 }
 
 .instructions {
   color: olivedrab;
+  width: 700px;
+  display: block;
+  text-align: left;
+  margin: auto;
 }
