@@ -1,5 +1,5 @@
 # odin-recipes
 
-This is a recipe book written with HTML and CSS for "The Odin Project": https://www.theodinproject.com/lessons/foundations-recipes
+My first website/recipe book written with HTML and CSS.
 
-
+[live Demo](https://rushilriyaz.github.io/odin-recipes/) 👈
